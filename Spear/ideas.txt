@@ -1,0 +1,20 @@
+Platformer based around using a spear to move around.
+
+If caught in midair, the spear will add it's momentum to the players (Along with a little extra height)(Theo rock - Celeste)
+The spear can stick in walls and be jumped off of, but it will fall to the ground afterwards.
+The spear can be called back to the player, flying towards the player and gaining speed over time. It doesn't travel through walls when doing this.
+The spear can be summoned to the player, teleporting it to the player with no momentum transfer.
+
+The player gets a single wall kick after landing on the ground.
+The wall kick grants significant height and a little bit of forward momentum.
+
+The player can grab ledges and pull themself up on top of them.
+
+There can be multiple spears in a stage, but the player can only call or summon a single one of them.
+
+You can't call/summon your spear until after beating the tutorial.
+
+
+
+
+Jumping off of a spear stuck in the wall, wall kicking, and calling the spear up to you can be used to gain great amounts of height.

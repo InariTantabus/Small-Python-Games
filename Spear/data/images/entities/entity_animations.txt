@@ -1,0 +1,1 @@
+player/idle/ 7 loop
